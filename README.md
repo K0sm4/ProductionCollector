@@ -6,7 +6,7 @@ This Python code extracts product data from two different websites using web scr
 The code is designed to work with two specific websites: tim.pl and tme.pl. It uses the requests and bs4 libraries to make HTTP requests and parse the HTML response, respectively. It also uses the openpyxl library to work with Excel files.
 ![Configuration](https://i.imgur.com/SUHZN18.png)
 
-# How to use the code:
+# How 2 use the code:
 1. Clone the repository or download the main.py file.
 2. Make sure you have Python 3 installed on your system.
 3. Install the required libraries by running pip install -r requirements.txt in the command line.
